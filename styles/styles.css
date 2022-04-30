@@ -1,7 +1,16 @@
 body {
   background: #f8e8a6;
 }
-.link {
-  margin: 400px;
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
   color: green;
+}
+img {
+  display: block;
+  margin: 30px auto;
+  max-width: 100%;
 }
