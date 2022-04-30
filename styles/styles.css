@@ -1,3 +1,7 @@
 body {
-  background: yellow;
+  background: #f8e8a6;
+}
+.link {
+  margin: 400px;
+  color: green;
 }
